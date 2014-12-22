@@ -16,4 +16,4 @@ Fire up grunt connect. You will probably have to do this through `sudo` because 
 sudo grunt connect
 ```
 
-Load index.html in IE9 and some other browser. Note that in IE9, the hostname property has `:80` appended.
+Load index.html in IE9 and some other browser. Note that in IE9, the host property has `:80` appended.
