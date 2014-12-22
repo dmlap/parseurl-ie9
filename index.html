@@ -1,0 +1,8 @@
+<!doctype html>
+<p id="output"></p>
+<script src="video-js/video.dev.js"></script>
+<script>
+  var p = document.getElementById('output');
+  
+  p.innerHTML = JSON.stringify(videojs.parseUrl('/domain/relative/url'));
+</script>
